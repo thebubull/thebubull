@@ -6,6 +6,14 @@ Approche centrée sur la compréhension des systèmes avant l’utilisation d’
 
 ---
 
+## 💻 Développement logiciel
+
+- Java
+- C++
+- Python 3
+
+---
+
 ## 🤖 Robotique & embarqué
 
 Montée en compétences en systèmes embarqués dans une logique de réorientation :
