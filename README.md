@@ -16,7 +16,7 @@ Approche centrée sur la compréhension des systèmes avant l’utilisation d’
 
 ## 🤖 Robotique & embarqué
 
-Montée en compétences en systèmes embarqués dans une logique de réorientation :
+Montée en compétences en systèmes embarqués :
 
 - STM32 (baremetal & HAL)
 - ROS2
