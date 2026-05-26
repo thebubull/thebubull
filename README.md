@@ -1,4 +1,4 @@
-# 👋 Développeur logiciel
+# 🧑‍💻 Développeur logiciel
 
 Développeur logiciel en transition vers les systèmes embarqués et la robotique (embedded software / temps réel).
 
