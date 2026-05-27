@@ -1,44 +1,25 @@
-# 🧑‍💻 Développeur logiciel
+# 👨🏻‍💻 Développeur logiciel
 
-Développeur logiciel en transition vers les systèmes embarqués et la robotique (embedded software / temps réel).
+Développeur logiciel en transition vers les systèmes embarqués temps réel et la robotique.
 
-Approche centrée sur la compréhension des systèmes avant l’utilisation d’abstractions de plus haut niveau.
+Approche centrée sur la compréhension des systèmes avant les abstractions de haut niveau.
 
----
+## 💻 Stack
 
-## 💻 Développement logiciel
+Java • C++ • Python  
+Unreal Engine 5 (C++ / Blueprint)  
+STM32 (baremetal & HAL) • ROS2 • Gazebo • KiCad  
 
-- Java
-- C++
-- Python 3
+## 🧩 Domaines
 
----
+Systèmes embarqués • Robotique • Temps Réel  
+Jeux Vidéos
 
-## 🤖 Robotique & embarqué
+## 🏢 Projets
 
-Montée en compétences en systèmes embarqués :
-
-- STM32 (baremetal & HAL)
-- ROS2
-- Gazebo
-- KiCad
-- Systèmes temps réel
-
----
-
-## 🎮 Jeu vidéo
-
-Développement d’un jeu sous Unreal Engine 5 (C++ / Blueprint) avec une approche orientée architecture et systèmes modulaires.
-
----
-
-## 🏢 Organisations
-
-- 🤖 [Robotics-Garage](https://github.com/Robotics-Garage) — robotique, STM32, électronique et simulation
-- 🎮 [SilentAnomalie](https://github.com/SilentAnomalie) — jeux vidéo, plugins et frameworks internes  
-
----
+- [Robotics-Garage](https://github.com/Robotics-Garage) — systèmes embarqués & robotique  
+- [SilentAnomalie](https://github.com/SilentAnomalie) — jeux vidéo & outils internes
 
 ## 🎯 Objectif
 
-Évoluer vers un profil orienté systèmes embarqués, robotique et développement logiciel proche du matériel.
+Devenir développeur logiciel embarqué / robotique
